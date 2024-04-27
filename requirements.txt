@@ -1,0 +1,28 @@
+openai
+langchain
+langchain-community
+langchain-openai
+chromadb
+bs4
+pypdf
+black
+pylint
+ruff
+docx2txt
+openpyxl
+xlsxwriter
+streamlit
+pinecone-client
+# torch
+# torchaudio
+# torchvision
+numpy
+transformers
+ragas
+datasets
+sentence-transformers==2.2.2
+# llama-cpp-python
+#rank-bm25
+InstructorEmbedding
+#translate
+#trubrics[streamlit]
